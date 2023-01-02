@@ -304,3 +304,18 @@ input:focus, textarea:focus, select:focus
    transform: translateY(-100%);
    }
 }
+#wb_Image2
+{
+   vertical-align: top;
+}
+#Image2
+{
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
